@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mariam Raouf</h1>
 <h3 align="center">A passionate Software developer</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+
 - 🔭 I’m currently working on **V2X and UCM functional Clusters in Adaptive AUTOSAR**
 
 - 🌱 I’m currently learning **AWS Cloud Essentials**
